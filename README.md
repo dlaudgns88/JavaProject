@@ -2,6 +2,7 @@
 
 ## 팀 프로젝트
 ### 도서대여프로젝트 프로그램 구축
+![bookmain](https://user-images.githubusercontent.com/103983433/174889726-4c484d37-e3e2-46de-a9cd-2320c04caf9f.png)
 
 ## 프로젝트 기간
 ### 22.03.17.~22.03.30
